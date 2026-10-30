@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=180&section=header&text=Hey%20there,%20I'm%20Vignesh%20👋&fontSize=38&fontColor=ffffff&fontAlignY=38"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=180&section=header&text=Hey%20there,%20I'm%20Vignesh%20S%20👋&fontSize=38&fontColor=ffffff&fontAlignY=38"/>
 </p>
 
 <p align="center">
@@ -32,7 +32,9 @@
 
 <td width="35%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="140" alt="Developer Avatar" />
+<a href="https://github.com/Vignesh-655">
+  <img src="https://avatars.githubusercontent.com/u/350146674?v=4" width="165" alt="Vignesh S" />
+</a>
 
 </td>
 
